@@ -1,3 +1,5 @@
+GitHub Pages URL for online view: https://olgakutovaya.github.io/spa-map/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
